@@ -28,15 +28,19 @@ age - The age of the customer
 
 payment_method - The payment method used
 
-## Key Insights
-- Yearly sales are the same
-- Females are the customers with the most sales.
-- Most customers are between the age of 35 to 54
-- Clothing is the most sold product.
-- January is month with highest sales
-- Customers prefer paying by cash
--  The Mall of Istanbul is the shopping mall with sold products.
+## Data Preparation
+- Merged two tables (Sales and Customer Data) to create a unified dataset for analysis.
+- Handled missing data by labeling them as "Unknown" as they were important for insights generation.
+- Grouped age data into categories (e.g., Under 25, 25-34, 35-54, 55+) for better demographic segmentation.
 
+## Key Insights
+- Yearly sales remained consistent for 2021 and 2022.
+- Females contributed to most sales.
+- The majority of customers are between 35 and 54 years old.
+- Clothing had the highest sales volume.
+- January recorded the highest sales among all months.
+- Customers prefer paying by cash.
+- The Mall of Istanbul had the highest number of sold products.
 
 ## Recommendations
 - Increase yearly revenue by focusing on younger customers (Under 25 and 25-34 age groups) through targeted promotions.
