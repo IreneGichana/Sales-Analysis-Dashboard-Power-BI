@@ -34,6 +34,9 @@ payment_method - The payment method used
 - Grouped age data into categories (e.g., Under 25, 25-34, 35-54, 55+) for better demographic segmentation.
 
 ## Key Insights
+
+<img width="1014" height="526" alt="Screenshot (1612)" src="https://github.com/user-attachments/assets/47407539-dd9c-41ab-a0f3-e7eed67c2b99" />
+
 - Yearly sales remained consistent for 2021 and 2022.
 - Females contributed to most sales.
 - The majority of customers are between 35 and 54 years old.
